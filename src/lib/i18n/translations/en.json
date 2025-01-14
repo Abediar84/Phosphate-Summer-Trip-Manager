@@ -1,0 +1,26 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "select": "Select",
+    "selected": "Selected",
+    "profile": "Profile",
+    "logout": "Logout",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "photos": "photos"
+  },
+  "destinations": {
+    "title": "Summer Trip Selection",
+    "selectDestination": "Select Your Destination",
+    "selectDates": "Select Three Weeks",
+    "weeksSelected": "weeks selected",
+    "maxWeeksSelected": "Maximum number of weeks selected. Remove a selection to choose a different week.",
+    "selectAccommodation": "Select Accommodation",
+    "weekStarts": "Week starts on Friday",
+    "confirmSelection": "Confirm Selection",
+    "selectionsSaved": "Your selections have been saved",
+    "capacity": "{{count}} guests",
+    "selectWeeks": "Please select three weeks for your vacation",
+    "instructions": "Choose one destination and select three weeks for your summer vacation"
+  }
+}
